@@ -2,6 +2,7 @@
 
 import mongoose from "mongoose";
 
+//this is my user schema 
 const messageSchema = new mongoose.Schema(
   {
     senderId: {
